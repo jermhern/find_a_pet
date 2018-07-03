@@ -6,7 +6,15 @@ Pick an animal such as a cat, dog, bird, or barnyard. Enter your zipcode. It wil
 
 # How to run
 `clone` the repo to a folder on your computer
+
+
 CD to the repo from the terminal
+
+
 install npm, `npm i npm`
+
+
 install parcel, `npm i parcel`
+
+
 while your CD'd in the project run `parcel` to start the server
